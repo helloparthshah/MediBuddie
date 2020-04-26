@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "medibuddie-275316",
+  "private_key_id": "d67aba9f9d8dcacf1116e03ad3ab93fbaf3ccc54",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCSMfTRgK3NU2hn\nmWDL8+CyXkKs5VuLAofLvPYAVutO8UHrBbkV5eNCHGtb2Dc/kj9X0ddGl+uhubaa\ntt3FYCmWc2OhvLCwZPowGctlJxgXs0ENvQuJPNQID1bHaWG2hI4rNzL5+EeJeXlp\nbGb+x9un/eUVu0qVNrJ1Kxzsi2g15/ai3jzY2iHdpZw6pC5uXPne8h2YS0STU0vD\nqXG9ZcumADSpoV786VoQS5xvEfo/X6qHVSl9eMSGnuo1fIxkQb85J1Jy/V68JNr5\nY+l+MvIx1KlFjJkyjG0/H9e2/ahmg0O0vy0994cIIAgnuL9diuH8plSoPuA7TQC+\nXhTZI3ljAgMBAAECggEADGJF8j87ucJgfDIeZHhupr1cWYf+NqrKtQP3NLUoLqI6\nKr3r3UKBezasE3Yfy/dH/VjtqvGwiJ0SLk3iQFdyfmec33T75J1RIiT1OUbUACHz\nl0XVxdTMwzgFalPvboYRAvEklM8mxCrxkXAY02k7nqHft3ULjtM4z7sMsq7mb3Zr\nckQO4ZKDg58RdCZ/39qhAmpPMNpxiq+Dt9byX8pmTyLZWj3XkkqWBZ6YIGWtxBBO\n1DusshtSz0x/DfIzu2BtXDIBJbbuZrWTHxyLpxeFI7LE/LUsaWf249jzkNJo6qOG\n9CzS/WY14dt1iJT+3rkFpz4803gLBlxrdRKaVd7t7QKBgQDOd4emkAyYeFzY4uuQ\ngi/hjl5nvQhNJflvl4PyNnEWOweoOtwY0vGv8r8tcRNIHrPAJz0Bvvo9lcxB9Z0p\npkCZ9b5N7smGKzO1p0B1Q/qt9QQq5U+7lQsGLmGMdDWcGR9QQaTFGC5qcC/29isH\nrMcsjqUcJhvon2T+f6tdEUXlrwKBgQC1RL8km7Jw4Uey8G3ADa11aoweqlQr97xL\nSkBHw8pNc/Ss8Et/G7AgtdVlp5BWmpe5AkC9EftuCKBghbkUgboBGsRsE92zRtyK\ncIUKmQWB/yonMvhEH0xP5ucKFvOXZuTVmtE3gqwdxCsHTN/k8OP4jxiqlYKnQqfl\nZrLt/RGIjQKBgB+kegmw8f08FR64SFnxWd07sIQ9mFQaicvscLBiX5qEmXvS6YB0\nc83/agVQ2x+mdO3yFYt69WcS2icRuXB0plnyK6ROAFyrqlUguOQ/8t9OOcFJO5sI\nEJR170VTWhP+Vao7JUF/nz14zCERQS7/79aIVg2mWYihRR0r+9tbllbJAoGBAJmu\ndkvIQSoYpVwdIT9hmT1iHvfkusYoHBjNE+CEK2EtPTTd6XQTemjRIOI1hVcXbCjr\nsw1ZUIzCfY438Wlkbtl+4ycqVJ0pJ9Orf/AzOgsz1X40ZW4EBwP7JMhWGyGyl7JN\ntrFUdS4rYbunvm7wmKbkUypU5dd+2K/SOUMyeooFAoGAJ5t2smdahKmO8OwlHOsy\nH1jHYpWoX8DNplYW1fxrGXWI8C2dZNaMJ+MoQUfg4Z1sDVdNFrEVF2yJFQIWEYP8\nNKpbEP2Ksnz52cBHT4L8lLC3HaT4Jl+JR9UzQH+DEvTLGu79a05/Pgwy5+utw0f6\nvxlw1sS4EbaDFb3N5QYY0sA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "parth-19@medibuddie-275316.iam.gserviceaccount.com",
+  "client_id": "115479867242747730636",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/parth-19%40medibuddie-275316.iam.gserviceaccount.com"
+}
