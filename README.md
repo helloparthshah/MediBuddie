@@ -1,17 +1,16 @@
-# medibuddie
+## MediBuddie
 
-A new Flutter project.
+Technology is about making lives easy and making these technologies accessible to more people is what we strive for.
 
-## Getting Started
+MediBuddie is meant to be intuitive and easy to use. 
 
-This project is a starting point for a Flutter application.
+# Using the app
+- Download the app from the apk provided,
+- Read the Disclaimer and **continue** onto the next slides,
+- Grant the permissions for camera, as this is a camera based app,
+- Using your camera, click a picture of a medicine's contents,
+- You should have all the information you care about!
 
-A few resources to get you started if this is your first Flutter project:
+On swiping up, you'll find the history of your searches!
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# MediBuddie
+Never take an unknown medicine again!
