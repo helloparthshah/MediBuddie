@@ -218,7 +218,7 @@ class _FlutterVisionHomeState extends State<FlutterVisionHome> {
         try {
           y = x["results"][0]["purpose"][0];
         } catch (e) {
-          y = x["results"][0]["geriatric_use"][0];
+          y = x["results"][0]["indications_and_usage"][0];
         }
         // print(x["results"][0]["geriatric_use"][0]);
         // print(x["results"][0]["openfda"][0]["substance_name"][0]);
